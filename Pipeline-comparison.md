@@ -33,8 +33,7 @@ Claude Design
 - Layout və informasiya iyerarxiyası: _4_ 
 - Yaradıcılıq: _3 (Claude'n öz dizaynına və stilinə çox bənzəyir)_
 - Content: _5(Contenti zəngindir,portfolionu əks etirir)_
-- UX yanaşması: _4_
-  
+- UX yanaşması: _4_  
 <img width="1469" height="917" alt="Screenshot 2026-07-20 at 14 56 47" src="https://github.com/user-attachments/assets/7dcbf100-d940-498f-9d67-04d0cccddd6c" />
 <img width="1470" height="956" alt="Screenshot 2026-07-20 at 14 56 53" src="https://github.com/user-attachments/assets/b3cba05a-55b2-4c17-a288-faacf1877fc7" />
 <img width="1470" height="934" alt="Screenshot 2026-07-20 at 14 57 08" src="https://github.com/user-attachments/assets/dc232569-4ffd-45b3-a56f-a89975b67272" />
@@ -48,8 +47,7 @@ Stitch
 - Layout və informasiya iyerarxiyası: _4.5_
 - Yaradıcılıq: _4_
 - Content: _3(Digərləri ilə nisbətdə contenti zəif qalır)_
-- UX yanaşması: _4_
-  
+- UX yanaşması: _4_  
 - <img width="1466" height="815" alt="Screenshot 2026-07-20 at 15 06 41" src="https://github.com/user-attachments/assets/7db36e3d-e9ff-4804-921c-6f029c9d632f" />
 <img width="1459" height="800" alt="Screenshot 2026-07-20 at 15 06 52" src="https://github.com/user-attachments/assets/641b8246-9f69-488a-9e9d-66395a9133cd" />
 <img width="1466" height="796" alt="Screenshot 2026-07-20 at 15 07 17" src="https://github.com/user-attachments/assets/55cb1ab8-738a-4b43-b263-2945eca8a86e" />
@@ -66,7 +64,6 @@ V0
 - Yaradıcılıq: _3_
 - Content: _5(Istifadə olunan şəkillər keyfiyyətlidir,Portfolionu əks etirir)_
 - UX yanaşması: _4_
-  
 <img width="1458" height="824" alt="Screenshot 2026-07-20 at 15 25 06" src="https://github.com/user-attachments/assets/9f0993a6-6486-43bd-ace9-7384da250056" />
 <img width="1459" height="755" alt="Screenshot 2026-07-20 at 15 25 32" src="https://github.com/user-attachments/assets/d4aa8594-f9eb-402c-9f22-81ca17beedf9" />
 <img width="1403" height="684" alt="Screenshot 2026-07-20 at 15 25 43" src="https://github.com/user-attachments/assets/5147639d-35d2-4b7b-a389-3a9deaaee10b" />
