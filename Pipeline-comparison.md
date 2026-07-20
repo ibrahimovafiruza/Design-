@@ -26,4 +26,3 @@ Qiymətləndirmə meyarları
 - Content 
 - UX yanaşması
 - Responsivlik
-- Ümumi istifadə təcrübəsi
